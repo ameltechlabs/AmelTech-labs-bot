@@ -40,13 +40,22 @@ AmelTechBot bot;
 
 void setup() {
   Serial.begin(115200);
+  delay(500);
   bot.begin();
-  Serial.println(bot.ask("What is water?"));
-  Serial.println(bot.ask("What is ESP32?"));
-  Serial.println(bot.ask("How many seconds are in one minute?"));
+  Serial.println("AmelTech bot ready. Type a question:");
 }
 
-void loop() {}
+void loop() {
+  if (Serial.available()) {
+    String q = Serial.readStringUntil('\n');
+    q.trim();
+    if (q.length() > 0) {
+      Serial.print("> ");
+      Serial.println(q);
+      Serial.println(bot.ask(q));
+    }
+  }
+}
 ```
 
 Built-in knowledge is supplied by the library. You do **not** need to call `train()` for the default Q&A set.
