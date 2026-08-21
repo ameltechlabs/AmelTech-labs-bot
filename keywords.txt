@@ -1,7 +1,0 @@
-AmelTechBot KEYWORD1
-ESP32 KEYWORD1
-chatbot KEYWORD1
-diagnostics KEYWORD1
-telemetry KEYWORD1
-WiFi KEYWORD2
-calculator KEYWORD2
