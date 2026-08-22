@@ -1,0 +1,152 @@
+[
+  {
+    "question": "what is water",
+    "answer": "Water is a chemical compound made of hydrogen and oxygen, H2O.",
+    "category": "science"
+  },
+  {
+    "question": "what is gravity",
+    "answer": "Gravity is a force of attraction between objects that have mass.",
+    "category": "science"
+  },
+  {
+    "question": "what is esp32",
+    "answer": "ESP32 is a family of low-cost microcontrollers with integrated Wi-Fi and Bluetooth.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is arduino",
+    "answer": "Arduino is an open-source platform of hardware and software for building electronics projects.",
+    "category": "esp32"
+  },
+  {
+    "question": "how many seconds are there in one minute",
+    "answer": "There are 60 seconds in one minute.",
+    "category": "math"
+  },
+  {
+    "question": "how many minutes are there in one hour",
+    "answer": "There are 60 minutes in one hour.",
+    "category": "math"
+  },
+  {
+    "question": "how many hours are there in one day",
+    "answer": "There are 24 hours in one day.",
+    "category": "math"
+  },
+  {
+    "question": "how many days are there in one week",
+    "answer": "There are 7 days in one week.",
+    "category": "math"
+  },
+  {
+    "question": "what is the boiling point of water",
+    "answer": "Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level.",
+    "category": "science"
+  },
+  {
+    "question": "what is the freezing point of water",
+    "answer": "Water freezes at 0 degrees Celsius (32 degrees Fahrenheit) at sea level.",
+    "category": "science"
+  },
+  {
+    "question": "what is wifi",
+    "answer": "Wi-Fi is a wireless networking technology that allows devices to communicate over radio waves.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is bluetooth",
+    "answer": "Bluetooth is a short-range wireless technology for exchanging data between devices.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is i2c",
+    "answer": "I2C is a two-wire serial communication protocol used to connect microcontrollers with peripherals.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is spi",
+    "answer": "SPI is a synchronous serial communication protocol commonly used for fast data transfer between devices.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is uart",
+    "answer": "UART is a hardware communication protocol used for asynchronous serial data transfer.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is gpio",
+    "answer": "GPIO stands for General Purpose Input Output, pins that can be configured as digital input or output.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is adc",
+    "answer": "ADC stands for Analog to Digital Converter, used to read analog voltages as digital values.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is dac",
+    "answer": "DAC stands for Digital to Analog Converter, used to output an analog voltage from a digital value.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is pwm",
+    "answer": "PWM stands for Pulse Width Modulation, a technique used to simulate analog output using digital pulses.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is rssi",
+    "answer": "RSSI stands for Received Signal Strength Indicator, a measurement of Wi-Fi or Bluetooth signal strength.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is the speed of light",
+    "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+    "category": "science"
+  },
+  {
+    "question": "what is the capital of france",
+    "answer": "The capital of France is Paris.",
+    "category": "general"
+  },
+  {
+    "question": "what is photosynthesis",
+    "answer": "Photosynthesis is the process by which plants convert light energy into chemical energy.",
+    "category": "science"
+  },
+  {
+    "question": "what is a microcontroller",
+    "answer": "A microcontroller is a compact integrated circuit designed to govern a specific operation in an embedded system.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is flash memory",
+    "answer": "Flash memory is a type of non-volatile storage that retains data even when power is removed.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is psram",
+    "answer": "PSRAM is Pseudo-Static RAM, additional external memory some ESP32 variants use to extend available RAM.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is a watchdog timer",
+    "answer": "A watchdog timer resets a system if software becomes unresponsive, helping recover from crashes or hangs.",
+    "category": "esp32"
+  },
+  {
+    "question": "what is nvs",
+    "answer": "NVS stands for Non-Volatile Storage, a key-value storage system used on ESP32 to persist data in flash.",
+    "category": "esp32"
+  },
+  {
+    "question": "who created arduino",
+    "answer": "Arduino was created in 2005 by a team including Massimo Banzi at the Interaction Design Institute Ivrea.",
+    "category": "general"
+  },
+  {
+    "question": "what is ohms law",
+    "answer": "Ohm's Law states that voltage equals current multiplied by resistance, V = I x R.",
+    "category": "science"
+  }
+]
