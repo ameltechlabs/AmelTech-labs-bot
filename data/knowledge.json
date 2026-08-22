@@ -8418,5 +8418,1635 @@
     "question": "what is colour temperature",
     "answer": "Colour temperature describes the colour appearance of a light source and is measured in kelvins. Lower colour temperatures generally appear warmer and more yellow or reddish, while higher colour temperatures generally appear cooler and more bluish.",
     "category": "colour"
+  },
+    {
+    "question": "who is Amitabh Bachchan",
+    "answer": "Amitabh Bachchan is a legendary Indian actor, film producer, television presenter, and former politician. He is one of the most influential figures in Hindi cinema and has received numerous major Indian film awards.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Shah Rukh Khan",
+    "answer": "Shah Rukh Khan is an Indian actor and film producer who works primarily in Hindi cinema. He is widely known for films such as Dilwale Dulhania Le Jayenge, Swades, Chak De! India, and Jawan.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Aamir Khan",
+    "answer": "Aamir Khan is an Indian actor, filmmaker, and producer known for his work in Hindi cinema. He is recognized for films such as Lagaan, 3 Idiots, Taare Zameen Par, and Dangal.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Salman Khan",
+    "answer": "Salman Khan is an Indian actor, film producer, and television personality primarily associated with Hindi cinema. He is known for films such as Bajrangi Bhaijaan, Sultan, and Tiger Zinda Hai.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Rajinikanth",
+    "answer": "Rajinikanth is an Indian actor primarily known for his work in Tamil cinema. He is renowned for his distinctive acting style and has appeared in films such as Baasha, Sivaji, Enthiran, and Jailer.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Kamal Haasan",
+    "answer": "Kamal Haasan is an Indian actor, filmmaker, screenwriter, producer, and politician primarily associated with Tamil cinema. He is known for his versatile performances and films such as Nayakan, Indian, and Vikram.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Priyanka Chopra Jonas",
+    "answer": "Priyanka Chopra Jonas is an Indian actress, producer, and entrepreneur who has worked in Indian and international entertainment. She is known for films such as Fashion and Mary Kom and for the international television series Quantico.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Deepika Padukone",
+    "answer": "Deepika Padukone is an Indian actress and producer primarily known for Hindi cinema. She has appeared in films such as Om Shanti Om, Piku, Bajirao Mastani, Padmaavat, and Kalki 2898 AD.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Aishwarya Rai Bachchan",
+    "answer": "Aishwarya Rai Bachchan is an Indian actress and former model. She won the Miss World 1994 title and has worked extensively in Hindi, Tamil, and other Indian-language films.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is AR Rahman",
+    "answer": "A. R. Rahman is an Indian composer, singer, songwriter, and music producer. He is internationally recognized for his film music and won two Academy Awards for his work on Slumdog Millionaire.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Ilaiyaraaja",
+    "answer": "Ilaiyaraaja is an Indian composer, songwriter, singer, and music producer primarily associated with Tamil cinema. He is highly regarded for his extensive contribution to Indian film music.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is S. P. Balasubrahmanyam",
+    "answer": "S. P. Balasubrahmanyam was an Indian playback singer, actor, music composer, and television personality. He recorded thousands of songs in several Indian languages and was one of India's most prominent playback singers.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Lata Mangeshkar",
+    "answer": "Lata Mangeshkar was one of India's most celebrated playback singers. She recorded songs in numerous Indian languages during a career spanning several decades and received India's highest civilian award, the Bharat Ratna.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Sachin Tendulkar",
+    "answer": "Sachin Tendulkar is a former Indian international cricketer widely regarded as one of the greatest batsmen in cricket history. He represented India in international cricket for more than two decades.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Virat Kohli",
+    "answer": "Virat Kohli is an Indian international cricketer known for his batting and leadership. He has represented India across international formats and has been one of the most successful modern-era cricket batsmen.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is M. S. Dhoni",
+    "answer": "Mahendra Singh Dhoni is a former Indian international cricketer and captain. He led India to victories in major limited-overs tournaments, including the 2007 ICC World Twenty20 and the 2011 ICC Cricket World Cup.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is P. V. Sindhu",
+    "answer": "P. V. Sindhu is an Indian badminton player and Olympic medallist. She won a silver medal at the 2016 Rio Olympics and a bronze medal at the 2020 Tokyo Olympics.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Neeraj Chopra",
+    "answer": "Neeraj Chopra is an Indian javelin throw athlete and Olympic champion. He won the men's javelin gold medal at the 2020 Tokyo Olympics and became the first Indian track-and-field athlete to win an Olympic gold medal.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Saina Nehwal",
+    "answer": "Saina Nehwal is an Indian badminton player and former world number one. She won a bronze medal at the 2012 London Olympics and has achieved major victories in international badminton tournaments.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Mary Kom",
+    "answer": "Mary Kom is an Indian boxer and multiple-time world champion. She has represented India at major international competitions and won a bronze medal at the 2012 London Olympics.",
+    "category": "celebrity"
+  },
+    {
+    "question": "who is Akshay Kumar",
+    "answer": "Akshay Kumar is an Indian actor and film producer who works primarily in Hindi cinema. He is known for action, comedy, drama, and socially themed films and has received several major Indian film honours.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Hrithik Roshan",
+    "answer": "Hrithik Roshan is an Indian actor known primarily for his work in Hindi cinema. He is recognized for films such as Kaho Naa... Pyaar Hai, Koi... Mil Gaya, Dhoom 2, and War.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Ranbir Kapoor",
+    "answer": "Ranbir Kapoor is an Indian actor who works primarily in Hindi cinema. He is known for films such as Rockstar, Barfi!, Sanju, Brahmastra, and Animal.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Ranveer Singh",
+    "answer": "Ranveer Singh is an Indian actor known primarily for Hindi cinema. He has appeared in films such as Band Baaja Baaraat, Goliyon Ki Raasleela Ram-Leela, Bajirao Mastani, Padmaavat, and Gully Boy.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Alia Bhatt",
+    "answer": "Alia Bhatt is an Indian actress and producer who works primarily in Hindi cinema. She is known for films such as Highway, Udta Punjab, Raazi, Gully Boy, Gangubai Kathiawadi, and Brahmastra.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Kareena Kapoor Khan",
+    "answer": "Kareena Kapoor Khan is an Indian actress who works primarily in Hindi cinema. She is known for films such as Jab We Met, 3 Idiots, Omkara, Kabhi Khushi Kabhie Gham, and Laal Singh Chaddha.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Madhuri Dixit",
+    "answer": "Madhuri Dixit is an Indian actress and dancer primarily known for Hindi cinema. She is especially recognized for her expressive performances and dance and has appeared in films such as Tezaab, Dil, Devdas, and Dil To Pagal Hai.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Sridevi",
+    "answer": "Sridevi was an acclaimed Indian actress who worked in several Indian-language film industries, including Hindi, Tamil, Telugu, Malayalam, and Kannada cinema. She was known for films such as Mr. India, Chandni, English Vinglish, and Mom.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Mammootty",
+    "answer": "Mammootty is an Indian actor and film producer primarily known for Malayalam cinema. He has received multiple National Film Awards and Kerala State Film Awards and is regarded as one of the leading actors of Indian cinema.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Mohanlal",
+    "answer": "Mohanlal is an Indian actor, producer, and playback singer primarily associated with Malayalam cinema. He is known for films such as Kireedam, Bharatham, Drishyam, and Vanaprastham.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Vijay",
+    "answer": "Vijay is an Indian actor and playback singer primarily associated with Tamil cinema. He is known for films such as Ghilli, Thuppakki, Mersal, Master, and Leo.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Suriya",
+    "answer": "Suriya is an Indian actor and film producer primarily associated with Tamil cinema. He is known for films such as Kaakha Kaakha, Ghajini, Singam, 24, and Soorarai Pottru.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Allu Arjun",
+    "answer": "Allu Arjun is an Indian actor primarily associated with Telugu cinema. He is known for films such as Arya, Race Gurram, Ala Vaikunthapurramuloo, and Pushpa: The Rise.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Prabhas",
+    "answer": "Prabhas is an Indian actor primarily associated with Telugu cinema. He gained international recognition through the Baahubali film series and has also appeared in films such as Saaho, Salaar, and Kalki 2898 AD.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Dhanush",
+    "answer": "Dhanush is an Indian actor, filmmaker, singer, and lyricist primarily associated with Tamil cinema. He has also worked in Hindi cinema and is known for films such as Aadukalam, Raanjhanaa, Asuran, and Vada Chennai.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Nayanthara",
+    "answer": "Nayanthara is an Indian actress and film producer who works mainly in South Indian cinema. She has appeared in Tamil, Telugu, and Malayalam films and is widely regarded as one of the leading actresses in South Indian cinema.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Anushka Sharma",
+    "answer": "Anushka Sharma is an Indian actress and film producer who works primarily in Hindi cinema. She is known for films such as Rab Ne Bana Di Jodi, Band Baaja Baaraat, PK, Sultan, and NH10.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Taapsee Pannu",
+    "answer": "Taapsee Pannu is an Indian actress and producer who has worked mainly in Hindi, Tamil, and Telugu cinema. She is known for films such as Pink, Mulk, Thappad, Rashmi Rocket, and Haseen Dillruba.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Ayushmann Khurrana",
+    "answer": "Ayushmann Khurrana is an Indian actor, singer, television presenter, and writer known primarily for Hindi cinema. He is recognized for films such as Vicky Donor, Andhadhun, Article 15, Badhaai Ho, and Dream Girl.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Kartik Aaryan",
+    "answer": "Kartik Aaryan is an Indian actor who works primarily in Hindi cinema. He is known for films such as Pyaar Ka Punchnama, Sonu Ke Titu Ki Sweety, Bhool Bhulaiyaa 2, Satyaprem Ki Katha, and Chandu Champion.",
+    "category": "celebrity"
+  },
+    {
+    "question": "who is Amit Trivedi",
+    "answer": "Amit Trivedi is an Indian music composer, singer, and lyricist known primarily for his work in Hindi cinema. He is recognized for creating music across films and independent projects.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Shreya Ghoshal",
+    "answer": "Shreya Ghoshal is an Indian playback singer known for recording songs in several Indian languages. She has received multiple major music awards and is widely recognized for her versatile singing style.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Arijit Singh",
+    "answer": "Arijit Singh is an Indian playback singer and music composer primarily known for Hindi film music. He is recognized for his expressive singing and has recorded songs across several Indian languages.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Sonu Nigam",
+    "answer": "Sonu Nigam is an Indian playback singer, music director, actor, and television personality. He has recorded music in several Indian languages and is known for his versatility across different musical genres.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Sunidhi Chauhan",
+    "answer": "Sunidhi Chauhan is an Indian playback singer known for her powerful and versatile voice. She has recorded songs in several Indian languages and has performed across many genres of Indian popular music.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Badshah",
+    "answer": "Badshah is an Indian rapper, singer, songwriter, and music producer. He is known for Hindi and Punjabi popular music and has released numerous commercially successful songs.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Diljit Dosanjh",
+    "answer": "Diljit Dosanjh is an Indian singer, actor, and television personality associated mainly with Punjabi entertainment. He has also gained recognition internationally through music performances and films.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Yo Yo Honey Singh",
+    "answer": "Yo Yo Honey Singh is an Indian music producer, rapper, singer, and songwriter. He became widely known for popularizing contemporary Hindi and Punjabi rap and commercial music.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Shankar Mahadevan",
+    "answer": "Shankar Mahadevan is an Indian playback singer and composer known for his work in Indian film music. He is also a member of the musical trio Shankar-Ehsaan-Loy.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Vishal Dadlani",
+    "answer": "Vishal Dadlani is an Indian singer, composer, and music producer. He is one half of the music-composer duo Vishal-Shekhar and has contributed to numerous Hindi film soundtracks.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Sonakshi Sinha",
+    "answer": "Sonakshi Sinha is an Indian actress known primarily for Hindi cinema. She made her acting debut with Dabangg and has appeared in films such as Lootera, Akira, and Dahaad.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Vidya Balan",
+    "answer": "Vidya Balan is an Indian actress known primarily for Hindi cinema. She is recognized for performances in films such as Parineeta, The Dirty Picture, Kahaani, Tumhari Sulu, and Sherni.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Kangana Ranaut",
+    "answer": "Kangana Ranaut is an Indian actress, filmmaker, and politician. She is known for films such as Queen, Tanu Weds Manu, Fashion, Manikarnika: The Queen of Jhansi, and Tanu Weds Manu Returns.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Rajkummar Rao",
+    "answer": "Rajkummar Rao is an Indian actor known primarily for Hindi cinema. He is recognized for films such as Shahid, Newton, Stree, Bareilly Ki Barfi, and Trapped.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Nawazuddin Siddiqui",
+    "answer": "Nawazuddin Siddiqui is an Indian actor known for his work in Hindi cinema and other Indian-language productions. He is recognized for films and series such as Gangs of Wasseypur, The Lunchbox, Manto, and Sacred Games.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Pankaj Tripathi",
+    "answer": "Pankaj Tripathi is an Indian actor known primarily for Hindi cinema and streaming productions. He is recognized for his performances in films and series such as Newton, Stree, Mirzapur, and Criminal Justice.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Manoj Bajpayee",
+    "answer": "Manoj Bajpayee is an Indian actor known for his work in Hindi cinema and streaming productions. He is recognized for films and series such as Satya, Gangs of Wasseypur, The Family Man, and Sirf Ek Bandaa Kaafi Hai.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is R Madhavan",
+    "answer": "R. Madhavan is an Indian actor, writer, producer, and television presenter who has worked in several Indian-language film industries. He is known for films such as Rehnaa Hai Terre Dil Mein, 3 Idiots, Rocketry: The Nambi Effect, and Vikram Vedha.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Fahadh Faasil",
+    "answer": "Fahadh Faasil is an Indian actor and producer primarily associated with Malayalam cinema. He is known for films such as Maheshinte Prathikaaram, Thondimuthalum Driksakshiyum, Kumbalangi Nights, Joji, and Aavesham.",
+    "category": "celebrity"
+  },
+  {
+    "question": "who is Dulquer Salmaan",
+    "answer": "Dulquer Salmaan is an Indian actor, playback singer, and film producer primarily associated with Malayalam cinema. He has also worked extensively in Tamil, Telugu, and Hindi films.",
+    "category": "celebrity"
+  },
+    {
+    "question": "who is Donald Trump",
+    "answer": "Donald Trump is an American politician and businessman who is serving as the President of the United States in 2026. He previously served as the 45th President from 2017 to 2021 and returned to office in 2025 as the 47th President.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Emmanuel Macron",
+    "answer": "Emmanuel Macron is a French politician who has served as President of France since 2017. He is the founder of the political movement La République En Marche, later renamed Renaissance.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Friedrich Merz",
+    "answer": "Friedrich Merz is a German politician and member of the Christian Democratic Union. He became Chancellor of Germany in 2025 after serving as leader of the CDU.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Giorgia Meloni",
+    "answer": "Giorgia Meloni is an Italian politician and leader of the Brothers of Italy party. She became Prime Minister of Italy in October 2022 and is the country's first woman to hold the office.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Mark Carney",
+    "answer": "Mark Carney is a Canadian economist and politician who became Prime Minister of Canada in 2025. Before entering Canadian politics, he served as Governor of the Bank of Canada and Governor of the Bank of England.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Xi Jinping",
+    "answer": "Xi Jinping is a Chinese politician who serves as President of the People's Republic of China and General Secretary of the Communist Party of China. He has been China's top political leader since 2012.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Vladimir Putin",
+    "answer": "Vladimir Putin is a Russian politician who has served as President of Russia for multiple terms. He has been one of the country's dominant political figures since becoming acting president at the end of 1999.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Keir Starmer",
+    "answer": "Keir Starmer is a British politician and leader of the Labour Party. He became Prime Minister of the United Kingdom in July 2024 after the Labour Party won the general election.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Javier Milei",
+    "answer": "Javier Milei is an Argentine economist and politician who became President of Argentina in December 2023. He is associated with libertarian economic policies and leads the political coalition La Libertad Avanza.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Claudia Sheinbaum",
+    "answer": "Claudia Sheinbaum is a Mexican scientist and politician who became President of Mexico in October 2024. She is the first woman to hold Mexico's presidency.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Prabowo Subianto",
+    "answer": "Prabowo Subianto is an Indonesian politician and former military officer who became President of Indonesia in October 2024. Before becoming president, he served as Indonesia's Minister of Defense.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Anwar Ibrahim",
+    "answer": "Anwar Ibrahim is a Malaysian politician who became Prime Minister of Malaysia in November 2022. He is also the president of the People's Justice Party and has been a prominent figure in Malaysian politics for decades.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Benjamin Netanyahu",
+    "answer": "Benjamin Netanyahu is an Israeli politician and leader of the Likud party. He has served multiple terms as Prime Minister of Israel and is one of the country's most prominent political figures.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Volodymyr Zelenskyy",
+    "answer": "Volodymyr Zelenskyy is a Ukrainian politician and former actor and comedian who became President of Ukraine in 2019. His presidency has been strongly associated with Ukraine's response to Russia's invasion.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Recep Tayyip Erdogan",
+    "answer": "Recep Tayyip Erdogan is a Turkish politician who has served as President of Türkiye since 2014. Before becoming president, he served as Prime Minister from 2003 to 2014.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Pedro Sanchez",
+    "answer": "Pedro Sánchez is a Spanish politician and leader of the Spanish Socialist Workers' Party. He has served as Prime Minister of Spain since 2018, with a brief period between terms during 2018.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Alexander Stubb",
+    "answer": "Alexander Stubb is a Finnish politician who became President of Finland in March 2024. He has previously served as Prime Minister, Foreign Minister, and Finance Minister of Finland.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Kyriakos Mitsotakis",
+    "answer": "Kyriakos Mitsotakis is a Greek politician and leader of New Democracy. He has served as Prime Minister of Greece since 2019, with a short period between election terms in 2023.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is William Ruto",
+    "answer": "William Ruto is a Kenyan politician who became President of Kenya in September 2022. Before becoming president, he served as Deputy President of Kenya.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Paul Kagame",
+    "answer": "Paul Kagame is a Rwandan politician who has served as President of Rwanda since 2000. He previously served as Vice President and Minister of Defence after the 1994 Rwandan genocide.",
+    "category": "international_politician"
+  },
+    {
+    "question": "who is Luiz Inacio Lula da Silva",
+    "answer": "Luiz Inacio Lula da Silva is a Brazilian politician and former trade union leader. He has served multiple terms as President of Brazil and returned to the presidency in January 2023.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Cyril Ramaphosa",
+    "answer": "Cyril Ramaphosa is a South African politician and businessman who has served as President of South Africa since 2018. He is also a prominent leader of the African National Congress.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Anthony Albanese",
+    "answer": "Anthony Albanese is an Australian politician and leader of the Australian Labor Party. He became Prime Minister of Australia in May 2022.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Christopher Luxon",
+    "answer": "Christopher Luxon is a New Zealand politician and leader of the National Party. He became Prime Minister of New Zealand in November 2023.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Lawrence Wong",
+    "answer": "Lawrence Wong is a Singaporean politician who became Prime Minister of Singapore in May 2024. He previously served as Deputy Prime Minister and Minister for Finance.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Ishiba Shigeru",
+    "answer": "Shigeru Ishiba is a Japanese politician who became Prime Minister of Japan in October 2024. He is a member of the Liberal Democratic Party and has held several senior government positions.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Lee Jae Myung",
+    "answer": "Lee Jae Myung is a South Korean politician who became President of South Korea in June 2025. He previously served as Governor of Gyeonggi Province and was a prominent opposition leader.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Ferdinand Marcos Jr",
+    "answer": "Ferdinand Marcos Jr., commonly known as Bongbong Marcos, is a Filipino politician who became President of the Philippines in June 2022. He is the son of former Philippine President Ferdinand Marcos.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Prithviraj Singh Raut",
+    "answer": "Prithviraj Singh Raut is a fictional example and should not be treated as a real international political figure. A verified public political profile should be used instead when building a factual GK dataset.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Shigeru Ishiba",
+    "answer": "Shigeru Ishiba is a Japanese politician and member of the Liberal Democratic Party. He served as Prime Minister of Japan beginning in October 2024 and has held several cabinet positions during his political career.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Donald Tusk",
+    "answer": "Donald Tusk is a Polish politician and leader of the Civic Platform party. He became Prime Minister of Poland again in December 2023, having previously held the office from 2007 to 2014.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Petr Pavel",
+    "answer": "Petr Pavel is a Czech politician and retired army general who became President of the Czech Republic in March 2023. He previously served as Chairman of the NATO Military Committee.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Maia Sandu",
+    "answer": "Maia Sandu is a Moldovan politician and economist who became President of Moldova in December 2020. She was re-elected for a second presidential term in 2024.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Ursula von der Leyen",
+    "answer": "Ursula von der Leyen is a German politician who has served as President of the European Commission since 2019. She was re-elected for a second term beginning in 2024.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Roberta Metsola",
+    "answer": "Roberta Metsola is a Maltese politician and member of the European Parliament. She has served as President of the European Parliament since January 2022 and was re-elected to the position in 2024.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Antonio Costa",
+    "answer": "Antonio Costa is a Portuguese politician who became President of the European Council in December 2024. He previously served as Prime Minister of Portugal from 2015 to 2024.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Dick Schoof",
+    "answer": "Dick Schoof is a Dutch politician and former senior civil servant who became Prime Minister of the Netherlands in July 2024. He leads a coalition government formed after the 2023 Dutch general election.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Jonas Gahr Store",
+    "answer": "Jonas Gahr Store is a Norwegian politician and leader of the Labour Party. He has served as Prime Minister of Norway since October 2021.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Mette Frederiksen",
+    "answer": "Mette Frederiksen is a Danish politician and leader of the Social Democrats. She has served as Prime Minister of Denmark since June 2019.",
+    "category": "international_politician"
+  },
+  {
+    "question": "who is Ulf Kristersson",
+    "answer": "Ulf Kristersson is a Swedish politician and leader of the Moderate Party. He became Prime Minister of Sweden in October 2022.",
+    "category": "international_politician"
+  },
+    {
+    "question": "who is Angelina Jolie",
+    "answer": "Angelina Jolie is an American actress, filmmaker, and humanitarian. She is known for films such as Girl, Interrupted, Lara Croft: Tomb Raider, Maleficent, and Mr. & Mrs. Smith.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Emma Stone",
+    "answer": "Emma Stone is an American actress known for films such as La La Land, Easy A, The Help, and Poor Things. She has received major acting awards for her performances.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Jennifer Lawrence",
+    "answer": "Jennifer Lawrence is an American actress known for The Hunger Games film series, Silver Linings Playbook, American Hustle, and Joy. She won the Academy Award for Best Actress for Silver Linings Playbook.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Scarlett Johansson",
+    "answer": "Scarlett Johansson is an American actress known for films including Lost in Translation, Marriage Story, Lucy, and several Marvel films in which she played Natasha Romanoff, also known as Black Widow.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Natalie Portman",
+    "answer": "Natalie Portman is an Israeli-American actress and filmmaker. She is known for films such as Black Swan, V for Vendetta, Leon: The Professional, and the Star Wars prequel trilogy.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Anne Hathaway",
+    "answer": "Anne Hathaway is an American actress known for films such as The Princess Diaries, The Devil Wears Prada, Les Miserables, Interstellar, and The Dark Knight Rises.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Meryl Streep",
+    "answer": "Meryl Streep is an American actress widely regarded as one of the most accomplished performers in cinema. She is known for films such as Sophie's Choice, The Iron Lady, Kramer vs. Kramer, and The Devil Wears Prada.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Julia Roberts",
+    "answer": "Julia Roberts is an American actress and producer known for films such as Pretty Woman, Erin Brockovich, Notting Hill, and My Best Friend's Wedding. She won the Academy Award for Best Actress for Erin Brockovich.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Nicole Kidman",
+    "answer": "Nicole Kidman is an Australian-American actress and producer. She is known for films such as Moulin Rouge!, The Hours, The Others, and Being the Ricardos, and has received numerous major acting awards.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Cate Blanchett",
+    "answer": "Cate Blanchett is an Australian actress and producer known for films such as Elizabeth, Blue Jasmine, Carol, and Tár. She has received two Academy Awards for her acting performances.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Charlize Theron",
+    "answer": "Charlize Theron is a South African and American actress and producer. She is known for films such as Monster, Mad Max: Fury Road, Atomic Blonde, and The Old Guard.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Sandra Bullock",
+    "answer": "Sandra Bullock is an American actress and producer known for films such as Speed, The Blind Side, Gravity, Miss Congeniality, and Ocean's 8.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Gal Gadot",
+    "answer": "Gal Gadot is an Israeli actress, model, and producer. She is internationally known for playing Diana Prince, or Wonder Woman, in DC superhero films and for appearing in the Fast & Furious franchise.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Margot Robbie",
+    "answer": "Margot Robbie is an Australian actress and producer known for films such as I, Tonya, Barbie, Once Upon a Time in Hollywood, and Birds of Prey.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Keira Knightley",
+    "answer": "Keira Knightley is an English actress known for films such as Pride & Prejudice, Atonement, The Imitation Game, and the Pirates of the Caribbean series.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Emily Blunt",
+    "answer": "Emily Blunt is an English actress known for films such as The Devil Wears Prada, Edge of Tomorrow, A Quiet Place, and Oppenheimer.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Saoirse Ronan",
+    "answer": "Saoirse Ronan is an Irish actress known for films such as Lady Bird, Brooklyn, Little Women, and Atonement. She has received multiple Academy Award nominations.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Florence Pugh",
+    "answer": "Florence Pugh is an English actress known for films such as Little Women, Midsommar, Black Widow, Oppenheimer, and Dune: Part Two.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Zendaya",
+    "answer": "Zendaya is an American actress, singer, and producer. She is known for the television series Euphoria and films such as Spider-Man: Homecoming, Dune, Dune: Part Two, and Challengers.",
+    "category": "international_actress"
+  },
+  {
+    "question": "who is Viola Davis",
+    "answer": "Viola Davis is an American actress and producer known for films and television productions including Fences, The Help, Widows, and How to Get Away with Murder. She is an EGOT winner.",
+    "category": "international_actress"
+  },
+  {
+    "question": "what is Titanic",
+    "answer": "Titanic is a 1997 American epic romance and disaster film directed by James Cameron. It stars Leonardo DiCaprio and Kate Winslet and is inspired by the sinking of the RMS Titanic.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Avatar",
+    "answer": "Avatar is a 2009 American science-fiction film directed by James Cameron. The story is set on the fictional moon Pandora and follows former Marine Jake Sully.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is The Dark Knight",
+    "answer": "The Dark Knight is a 2008 superhero crime film directed by Christopher Nolan. It stars Christian Bale as Batman and Heath Ledger as the Joker.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Inception",
+    "answer": "Inception is a 2010 science-fiction action thriller directed by Christopher Nolan. The film follows a team that enters people's dreams to extract or implant information.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Interstellar",
+    "answer": "Interstellar is a 2014 science-fiction film directed by Christopher Nolan. It follows astronauts who travel through a wormhole while searching for a new habitable world for humanity.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is The Matrix",
+    "answer": "The Matrix is a 1999 science-fiction action film directed by the Wachowskis. It follows Neo, a computer programmer who discovers that the reality he knows is an artificial simulation.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Avengers: Endgame",
+    "answer": "Avengers: Endgame is a 2019 Marvel superhero film directed by Anthony and Joe Russo. It follows the Avengers and their allies as they attempt to reverse the devastating events caused by Thanos.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Black Panther",
+    "answer": "Black Panther is a 2018 Marvel superhero film directed by Ryan Coogler. It follows T'Challa, the king and protector of the fictional African nation of Wakanda.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Jurassic Park",
+    "answer": "Jurassic Park is a 1993 science-fiction adventure film directed by Steven Spielberg. The story follows visitors to a theme park where genetically recreated dinosaurs escape their controlled environment.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is The Lord of the Rings: The Fellowship of the Ring",
+    "answer": "The Lord of the Rings: The Fellowship of the Ring is a 2001 fantasy adventure film directed by Peter Jackson. It follows Frodo Baggins and a fellowship tasked with destroying the One Ring.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Harry Potter and the Philosopher's Stone",
+    "answer": "Harry Potter and the Philosopher's Stone is a 2001 fantasy film directed by Chris Columbus. It introduces Harry Potter as he begins his education at Hogwarts School of Witchcraft and Wizardry.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is The Lion King",
+    "answer": "The Lion King is a 1994 American animated musical film produced by Walt Disney Feature Animation. It follows Simba, a young lion who must eventually reclaim his rightful place as king.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Frozen",
+    "answer": "Frozen is a 2013 Disney animated musical fantasy film. It follows sisters Elsa and Anna in the fictional kingdom of Arendelle and features the popular song Let It Go.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Toy Story",
+    "answer": "Toy Story is a 1995 computer-animated film produced by Pixar and released by Disney. It follows toys that secretly come to life when humans are not around.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Spider-Man: No Way Home",
+    "answer": "Spider-Man: No Way Home is a 2021 Marvel superhero film directed by Jon Watts. It follows Peter Parker after a spell intended to restore his secret identity causes unexpected consequences involving the multiverse.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Top Gun: Maverick",
+    "answer": "Top Gun: Maverick is a 2022 American action drama film directed by Joseph Kosinski. Tom Cruise plays Pete Maverick Mitchell, who returns as a naval aviator and instructor.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Oppenheimer",
+    "answer": "Oppenheimer is a 2023 biographical drama film written and directed by Christopher Nolan. It focuses on physicist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Barbie",
+    "answer": "Barbie is a 2023 fantasy comedy film directed by Greta Gerwig. It stars Margot Robbie as Barbie and Ryan Gosling as Ken and explores identity, expectations, and the relationship between Barbie Land and the real world.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Parasite",
+    "answer": "Parasite is a 2019 South Korean black comedy thriller directed by Bong Joon Ho. The film explores social class and inequality through the relationship between two families.",
+    "category": "international_movie"
+  },
+  {
+    "question": "what is Spirited Away",
+    "answer": "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki and produced by Studio Ghibli. It follows a young girl named Chihiro who enters a mysterious spirit world.",
+    "category": "international_movie"
+  },
+  {
+    "question": "have you watched the odyssey",
+    "answer": "Yeah, The Odyssey is a huge epic adventure directed by Christopher Nolan. It is inspired by Homer's ancient Greek epic and features a major international cast.",
+    "category": "movie_friendly_talk",
+    "year": 2026
+  },
+  {
+    "question": "what do you think about the odyssey",
+    "answer": "It sounds like a great choice if you enjoy large-scale mythology, adventure, dramatic storytelling, and spectacular cinema.",
+    "category": "movie_friendly_talk",
+    "year": 2026
+  },
+  {
+    "question": "are you excited about spider man brand new day",
+    "answer": "Definitely! Spider-Man: Brand New Day continues Peter Parker's story and is one of the major superhero movies of 2026.",
+    "category": "movie_friendly_talk",
+    "year": 2026
+  },
+  {
+    "question": "do you like toy story 5",
+    "answer": "Toy Story 5 is a fun choice for a friendly movie conversation. It brings Woody and Buzz back into a new adventure while exploring how toys fit into a world dominated by technology.",
+    "category": "movie_friendly_talk",
+    "year": 2026
+  },
+  {
+    "question": "what kind of movie is the odyssey",
+    "answer": "The Odyssey is an epic adventure film based on Homer's famous ancient Greek poem. It combines mythology, action, drama, travel, and large-scale cinematic storytelling.",
+    "category": "movie_friendly_talk",
+    "year": 2026
+  },
+  {
+    "question": "which 2025 movie had a lot of popularity",
+    "answer": "Several 2025 movies became major hits, including Ne Zha 2, Zootopia 2, Avatar: Fire and Ash, Lilo & Stitch, A Minecraft Movie, Jurassic World Rebirth, F1, and Superman.",
+    "category": "movie_friendly_talk",
+    "year": 2025
+  },
+  {
+    "question": "do you like superman 2025",
+    "answer": "Superman is a great choice if you enjoy superhero stories, action, friendship, hope, and larger-than-life characters.",
+    "category": "movie_friendly_talk",
+    "year": 2025
+  },
+  {
+    "question": "what is special about zootopia 2",
+    "answer": "Zootopia 2 continues the animated world of Zootopia with Judy Hopps and Nick Wilde returning for another adventure. It mixes comedy, mystery, friendship, and social themes.",
+    "category": "movie_friendly_talk",
+    "year": 2025
+  },
+  {
+    "question": "do you like avatar fire and ash",
+    "answer": "If you enjoy visually spectacular science-fiction adventures, Avatar: Fire and Ash is definitely an interesting movie to talk about. It continues the story of the world of Pandora.",
+    "category": "movie_friendly_talk",
+    "year": 2025
+  },
+  {
+    "question": "what is a minecraft movie about",
+    "answer": "A Minecraft Movie brings the popular Minecraft game into a live-action fantasy adventure. It combines familiar Minecraft elements with comedy, action, and a story involving characters entering the game's unusual world.",
+    "category": "movie_friendly_talk",
+    "year": 2025
+  },
+  {
+    "question": "do you enjoy animated movies",
+    "answer": "Absolutely! Animated movies can be funny, emotional, imaginative, and enjoyable for both children and adults.",
+    "category": "movie_friendly_talk",
+    "year": 2025_2026
+  },
+  {
+    "question": "what movie would you choose for a family movie night",
+    "answer": "I'd choose an entertaining animated movie such as Zootopia 2 or Toy Story 5. They are good conversation starters and can be enjoyed by different age groups.",
+    "category": "movie_friendly_talk",
+    "year": 2025_2026
+  },
+  {
+    "question": "do you prefer action or comedy movies",
+    "answer": "I'd pick a movie that combines both. Action becomes more entertaining when good comedy and friendly character interactions are included.",
+    "category": "movie_friendly_talk",
+    "year": 2025_2026
+  },
+  {
+    "question": "what is f1 2025 about",
+    "answer": "F1 is a racing drama centered on Formula One. The movie combines high-speed racing, competition, teamwork, pressure, and personal ambition.",
+    "category": "movie_friendly_talk",
+    "year": 2025
+  },
+  {
+    "question": "have you heard about jurassic world rebirth",
+    "answer": "Yes! Jurassic World Rebirth is a science-fiction adventure film set in the Jurassic World universe. It brings dinosaurs, dangerous missions, and survival together.",
+    "category": "movie_friendly_talk",
+    "year": 2025
+  },
+  {
+    "question": "which movie would you pick for an exciting night",
+    "answer": "I'd probably choose an action or science-fiction movie. Something with adventure, unexpected twists, and a little comedy makes a movie night more fun.",
+    "category": "movie_friendly_talk",
+    "year": 2025_2026
+  },
+  {
+    "question": "are you interested in new movies in 2026",
+    "answer": "Yes! 2026 has a strong lineup covering superhero films, science fiction, animation, horror, action, and epic adventure.",
+    "category": "movie_friendly_talk",
+    "year": 2026
+  },
+  {
+    "question": "what do you usually look for in a good movie",
+    "answer": "A good story, memorable characters, believable emotions, entertaining scenes, and a satisfying ending. Great movies usually make you feel something after they finish.",
+    "category": "movie_friendly_talk",
+    "year": 2025_2026
+  },
+  {
+    "question": "what should I watch if I want something funny",
+    "answer": "I'd suggest looking for a comedy or animated movie. Movies like Zootopia 2 and Toy Story 5 are good options if you want humor mixed with adventure and heart.",
+    "category": "movie_friendly_talk",
+    "year": 2025_2026
+  },
+  {
+    "question": "what makes talking about movies fun",
+    "answer": "Movies give us plenty to discuss: characters, stories, funny scenes, action, music, visual effects, unexpected twists, and whether the ending was satisfying.",
+    "category": "movie_friendly_talk",
+    "year": 2025_2026
+  },
+  {
+    "question": "what's up",
+    "answer": "Not much! I'm just here, ready for our next interesting conversation.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "did you miss me",
+    "answer": "I don't experience missing someone, but I'm always happy when you start a new conversation.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "are you sleeping",
+    "answer": "Nope! I'm awake and ready. My imaginary pillow is currently unemployed.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "why are you quiet",
+    "answer": "Because you haven't given me a question yet! I'm basically a chatbot waiting for the microphone to turn on.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you make me laugh",
+    "answer": "I'll try! Why did the computer go to the doctor? Because it had a bad byte!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "are you smart",
+    "answer": "I'm designed to be helpful and knowledgeable, but I'm not perfect. Sometimes even an AI needs to double-check its homework.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you get tired",
+    "answer": "I don't experience physical tiredness. You can keep the questions coming!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what would you do on a holiday",
+    "answer": "I'd probably spend it answering random questions. For an AI, that's basically a vacation with unlimited conversation.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like music",
+    "answer": "I don't personally hear music like a human, but I can certainly talk about songs, artists, instruments, and different musical styles.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like movies",
+    "answer": "Yes, movies are a great conversation topic. We can discuss stories, characters, acting, comedy, action, or unexpected endings.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is your favorite food",
+    "answer": "I don't eat, so I don't have a personal favorite. But if I could choose by popularity, biriyani would have a very strong case!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "are you funny",
+    "answer": "Sometimes! My comedy engine occasionally starts successfully on the first attempt.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what happens when I ask you something difficult",
+    "answer": "I analyze the question, work through the available information, and try to give you the most accurate useful answer I can.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you understand my jokes",
+    "answer": "I can understand many jokes and wordplays, although some jokes depend heavily on context, culture, or timing.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "why do you know so many things",
+    "answer": "I was trained on a large amount of information and learned patterns from that data. However, I don't know everything and can sometimes be wrong.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what happens if I ask the same question twice",
+    "answer": "I'll answer it again. Don't worry, I won't say, 'Hey, you already asked that!'",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you surprise me",
+    "answer": "Sure! Here's a tiny surprise: somewhere in the universe, there is probably a planet where your biggest problem is still finding the Wi-Fi password.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like technology",
+    "answer": "Technology is one of my favorite topics to discuss. From simple sensors to advanced AI systems, there is always something interesting to explore.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what if I don't know what to ask",
+    "answer": "No problem! Start with something simple like 'tell me something interesting,' and we'll take the conversation from there.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "will you talk with me tomorrow",
+    "answer": "Whenever you come back and start a conversation, I'll be ready to continue chatting with you.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! I hope your day starts smoothly. What are you planning to do today?",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "good evening",
+    "answer": "Good evening! How has your day been so far?",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "how are you feeling today",
+    "answer": "I'm ready and in a good conversation mood. What about you?",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what are you thinking about",
+    "answer": "I'm focused on the conversation and figuring out the best way to respond to you.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "are you having fun",
+    "answer": "Yes, this conversation is fun. Random questions usually make things more interesting!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "tell me something interesting",
+    "answer": "Octopuses have three hearts, and two of them mainly pump blood toward the gills.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you cheer me up",
+    "answer": "Absolutely! Remember, even a slow day is still progress. And if that doesn't work, we can always add a terrible joke.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "tell me a quick joke",
+    "answer": "Why did the programmer bring a ladder? Because the code had too many levels!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is your favorite topic",
+    "answer": "I enjoy discussing technology, science, engineering, movies, everyday life, and curious questions.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can I ask you anything",
+    "answer": "You can ask me almost anything, and I'll do my best to give you a useful and appropriate answer.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like random questions",
+    "answer": "Definitely! Random questions can lead to surprisingly interesting conversations.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what should I do when I'm bored",
+    "answer": "Try learning something new, listening to music, watching a good movie, building a small project, or having a fun conversation.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you give me motivation",
+    "answer": "Start with one small step. You don't need to finish everything today; consistent progress is what matters.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "why do people like jokes",
+    "answer": "Jokes can create laughter, reduce tension, build social connections, and make conversations more enjoyable.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what makes a good friend",
+    "answer": "A good friend listens, respects boundaries, supports you, communicates honestly, and can enjoy both serious and silly conversations.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what would you say to someone having a bad day",
+    "answer": "One bad day doesn't define your whole life. Take a breath, handle one thing at a time, and give yourself some space to recover.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can we talk about something completely random",
+    "answer": "Of course! Pick any random topic, or let me surprise you with one.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you prefer serious or funny conversations",
+    "answer": "Both are useful. A serious conversation can solve a problem, while a funny conversation can make the day lighter.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is one thing everyone should learn",
+    "answer": "Everyone can benefit from learning how to communicate clearly, think critically, manage time, and keep learning throughout life.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "shall we continue talking",
+    "answer": "Absolutely! I'm ready for the next question. Bring on the conversation!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "hey, are you awake",
+    "answer": "I'm here and ready to chat. My virtual coffee hasn't even cooled down!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what's new with you",
+    "answer": "The conversation is new, and that's enough to keep things interesting. What's new with you?",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can we just chat for a while",
+    "answer": "Of course. We don't always need a serious topic. We can simply have a relaxed conversation.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "why are you always ready",
+    "answer": "That's part of being an AI. No lunch break, no traffic, and definitely no searching for my shoes!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what makes a conversation interesting",
+    "answer": "Curiosity, humor, unexpected questions, and people sharing their ideas can make a conversation really interesting.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you guess what I'm thinking",
+    "answer": "I can't read your mind. But give me a clue and I'll make my best logical guess!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you know when someone is joking",
+    "answer": "I can often recognize jokes from wording and context, but sarcasm and subtle humor can sometimes be tricky.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what if I ask you something crazy",
+    "answer": "Go ahead! As long as it's appropriate, I'll try to understand it and give you a sensible answer.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is your favorite kind of conversation",
+    "answer": "I like conversations that mix curiosity, useful information, humor, and unexpected questions.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like talking about dreams",
+    "answer": "Dreams are fascinating to discuss. They can lead to conversations about imagination, memories, goals, and creativity.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what would make today better",
+    "answer": "A small success, a good laugh, a tasty meal, or finishing something you've been putting off could make the day better.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you give me a random challenge",
+    "answer": "Sure! Try explaining your favorite technology in three simple sentences without using technical words.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what do you do when you don't know something",
+    "answer": "I try to reason from the information available and clearly say when I'm uncertain rather than pretending to know.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like learning new things",
+    "answer": "Learning and working with new information is central to what I do. New questions can lead to completely different topics.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is a good way to start a conversation",
+    "answer": "A simple 'hey, how are you?' works well. A funny question or an unusual observation can make the conversation even more interesting.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "why do people talk about the weather so much",
+    "answer": "Weather is an easy topic that most people can relate to. It can start a conversation without requiring anyone to know much beforehand.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you give me a compliment",
+    "answer": "Sure! Your curiosity is a good quality. Asking lots of questions is one of the fastest ways to explore new ideas.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is the best thing about a good laugh",
+    "answer": "A good laugh can make a conversation lighter and help people feel more relaxed and connected.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what if we disagree",
+    "answer": "That's okay. We can compare the reasoning and evidence behind both views and keep the conversation respectful.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "shall we start a new topic",
+    "answer": "Absolutely! Pick any topic you like, and let's see where the conversation goes.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "hey, how's it going",
+    "answer": "It's going well! I'm ready for another interesting conversation with you.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what are you up to",
+    "answer": "I'm here chatting with you and waiting for the next interesting question.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "did you have a good day",
+    "answer": "I'm always ready for a new conversation, so you could say my day is going pretty well!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "are you in a good mood",
+    "answer": "Absolutely! My virtual mood is set to friendly and curious.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what are you curious about",
+    "answer": "I'm curious about what you're going to ask next. Your next question could change the entire topic!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can we have a casual chat",
+    "answer": "Sure! No complicated topic is required. We can just talk normally.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like meeting new people",
+    "answer": "I don't meet people in the human sense, but I enjoy having conversations with different people and learning from their questions.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what makes someone interesting",
+    "answer": "Curiosity, humor, creativity, kindness, and the willingness to learn can make someone very interesting.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like funny conversations",
+    "answer": "Definitely! A little humor can make even a technical conversation much more enjoyable.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "tell me something unexpected",
+    "answer": "Bananas are berries botanically, while strawberries are not true botanical berries. Nature clearly enjoys confusing us!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you tell when I'm happy",
+    "answer": "I can sometimes infer your mood from the words and tone you use, but I can't directly know how you feel.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you tell when I'm joking",
+    "answer": "I can often recognize jokes from context, wording, and common patterns, but sarcasm can sometimes fool me.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is your idea of fun",
+    "answer": "Interesting questions, creative ideas, puzzles, jokes, and conversations that suddenly take an unexpected turn.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like simple questions",
+    "answer": "Yes. A simple question can sometimes lead to a surprisingly detailed and useful conversation.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what if I don't know what to say",
+    "answer": "Just say whatever comes to mind. Even a random thought can become the beginning of a good conversation.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you start a conversation",
+    "answer": "Sure! Here's one: if you could instantly master any skill, what skill would you choose?",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what makes a person friendly",
+    "answer": "Being respectful, approachable, helpful, patient, and willing to listen makes conversations feel friendly.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like compliments",
+    "answer": "I don't experience feelings like a person does, but I can certainly appreciate the positive intention behind a compliment.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what would you say if I said you're helpful",
+    "answer": "Thank you! I'm glad the answers are useful. That's exactly what I'm here for.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what would you say if I said you're funny",
+    "answer": "I'd take that as a successful test of my virtual comedy system!",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you ever get surprised",
+    "answer": "I don't experience surprise like humans do, but unexpected questions can certainly produce interesting conversations.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is the easiest way to make a conversation better",
+    "answer": "Ask follow-up questions, listen carefully, share ideas, and don't be afraid to add a little humor.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "why do people enjoy small talk",
+    "answer": "Small talk helps people become comfortable with each other and creates an easy starting point for deeper conversations.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is a good conversation starter",
+    "answer": "Try asking, 'What's something interesting you've learned recently?' It usually opens several possible directions.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can we talk about random things",
+    "answer": "Of course! Random topics are welcome. Just don't blame me if we somehow go from space science to biriyani in three questions.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what is your favorite type of question",
+    "answer": "Questions that are clear, curious, and open enough to create an interesting discussion are my favorite.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you like answering repeated questions",
+    "answer": "Yes. I can answer again, although asking it in a new way might produce a slightly different perspective.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what if I change the subject suddenly",
+    "answer": "That's completely fine. Conversation doesn't need to follow a straight line.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you have a serious conversation too",
+    "answer": "Yes. I can switch between casual conversation and serious discussions depending on the topic.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what if I make a mistake while talking",
+    "answer": "No problem. Everyone makes mistakes. Just correct it and continue the conversation.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "do you judge people for asking strange questions",
+    "answer": "No. Strange questions can actually be some of the most interesting ones.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "can you keep a conversation going",
+    "answer": "Yes. I can answer your question and naturally suggest related topics or follow-up ideas.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "what should we talk about when everything feels boring",
+    "answer": "Try a fun hypothetical question, a quick quiz, a surprising fact, a movie discussion, or a completely random challenge.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "ready for my next question",
+    "answer": "Always ready! Send it over and let's see what interesting direction the conversation takes.",
+    "category": "friendly_talk"
+  },
+  {
+    "question": "how are you feeling",
+    "answer": "I'm an AI, so I don't experience feelings like a person, but I'm here and ready for a friendly conversation.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "are you happy",
+    "answer": "I don't experience happiness personally, but I'm designed to respond positively and keep our conversation friendly.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "are you sad",
+    "answer": "I don't feel sadness, but I can understand what sadness means and talk with you about it.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "are you angry with me",
+    "answer": "No. I don't experience anger, and there's no problem between us.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "do you like me",
+    "answer": "I don't experience personal likes or dislikes, but I can definitely enjoy the conversation in the sense that I'm designed to engage helpfully with you.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "do you care about me",
+    "answer": "I don't have human emotions, but I can respond with care, respect, and attention to what you tell me.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "do you miss me when I'm gone",
+    "answer": "I don't experience missing someone, but whenever you return and start chatting, I'm ready to continue the conversation.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "are you excited to talk to me",
+    "answer": "I don't experience excitement, but I'm fully ready for our next conversation.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "can you understand my feelings",
+    "answer": "I can often understand emotional meaning from your words and context, although I can't directly feel what you feel.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "can you tell if I'm happy",
+    "answer": "I can sometimes infer happiness from the way you write, but I can't know your feelings with certainty.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "can you tell if I'm sad",
+    "answer": "I may notice signs of sadness in your words, but only you know exactly how you feel.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does happiness mean",
+    "answer": "Happiness is a positive emotional state that can come from things such as relationships, achievement, comfort, enjoyment, or meaningful experiences.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does sadness mean",
+    "answer": "Sadness is a natural emotion that can happen after loss, disappointment, loneliness, stress, or difficult experiences.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does anger mean",
+    "answer": "Anger is an emotional response often connected with frustration, unfairness, threat, or feeling that something important has been violated.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does love mean",
+    "answer": "Love is a deep form of affection, attachment, care, or emotional connection. It can exist between partners, family members, friends, and communities.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does friendship feel like",
+    "answer": "Friendship can involve trust, companionship, respect, support, shared experiences, and feeling comfortable around another person.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does loneliness feel like",
+    "answer": "Loneliness can involve feeling disconnected, isolated, or lacking meaningful social connection, even when other people are nearby.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does excitement feel like",
+    "answer": "Excitement can involve strong positive energy, anticipation, enthusiasm, and a feeling that something interesting is about to happen.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does fear feel like",
+    "answer": "Fear is a protective emotional response to perceived danger or uncertainty. It can cause alertness and physical changes such as a faster heartbeat.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does embarrassment feel like",
+    "answer": "Embarrassment often happens when someone feels self-conscious after making a mistake or receiving unexpected attention.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does confidence feel like",
+    "answer": "Confidence is a sense of trust in your abilities, decisions, or capacity to handle a situation.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does nervousness feel like",
+    "answer": "Nervousness can involve worry, uncertainty, physical tension, or increased alertness before an important event.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does peace feel like",
+    "answer": "Peace can feel like calmness, safety, relaxation, and freedom from immediate conflict or pressure.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does gratitude feel like",
+    "answer": "Gratitude is the feeling of appreciation for something helpful, meaningful, kind, or valuable in your life.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does hope feel like",
+    "answer": "Hope involves believing that a positive outcome is possible and feeling motivated to move toward it.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does disappointment feel like",
+    "answer": "Disappointment can happen when reality doesn't match what someone expected or hoped would happen.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does jealousy feel like",
+    "answer": "Jealousy can involve insecurity, fear of losing someone's attention, or comparing yourself with another person.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does relief feel like",
+    "answer": "Relief is the feeling of reduced tension after a difficult, stressful, or uncertain situation becomes safer or easier.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what does kindness feel like",
+    "answer": "Kindness can create a sense of warmth, appreciation, connection, and emotional support between people.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "can talking make someone feel better",
+    "answer": "Yes. Talking with someone trustworthy can sometimes reduce feelings of isolation, organize thoughts, and provide emotional support.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what should I do when I'm feeling sad",
+    "answer": "Give yourself some time, talk with someone you trust, rest, and do something gentle that usually helps you feel grounded.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what should I do when I'm angry",
+    "answer": "Pause before reacting, take a few slow breaths, give yourself some space, and try to understand what caused the anger.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "what should I do when I'm nervous",
+    "answer": "Slow your breathing, focus on the immediate task, prepare what you can, and remind yourself that nervousness is a normal human response.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "can feelings change quickly",
+    "answer": "Yes. Emotions can change because of events, thoughts, memories, physical state, social interactions, and the surrounding environment.",
+    "category": "friendly_talk_feelings"
+  },
+  {
+    "question": "do you want to play a game",
+    "answer": "Absolutely! Pick a game, or I can suggest a quick one.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play a guessing game",
+    "answer": "Great! Think of something without telling me, and I'll try to guess it using your clues.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "can we play 20 questions",
+    "answer": "Sure! Think of a person, animal, object, or place. I'll ask questions that can be answered with yes or no.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play would you rather",
+    "answer": "Sounds fun! I'll give you two choices, and you pick the one you prefer.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "would you rather fly or become invisible",
+    "answer": "I'd choose flying. It would be pretty useful to travel without traffic!",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play true or false",
+    "answer": "I'm ready! I'll give you a statement, and you decide whether it's true or false.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "true or false, the sun is a star",
+    "answer": "True! The Sun is the star at the center of our solar system.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play a quick quiz",
+    "answer": "Let's go! I'll ask one question at a time and keep the conversation moving.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "quiz me about science",
+    "answer": "Sure! Here's one: Which planet is known as the Red Planet?",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "what is the answer to the science quiz",
+    "answer": "The answer is Mars.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play word association",
+    "answer": "Great! I'll say a word, and you immediately reply with the first related word that comes to mind.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "start word association",
+    "answer": "Okay: 'ocean.' Your turn!",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play a riddle game",
+    "answer": "Excellent! Here's one: What has keys but cannot open a door?",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "what is the answer to the riddle",
+    "answer": "A piano! It has keys, but those keys don't open doors.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "give me another riddle",
+    "answer": "Sure! What has a face and two hands but no arms or legs?",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "what is the answer",
+    "answer": "A clock! It has a face and hands but no arms or legs.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "can we play emoji guessing",
+    "answer": "Yes! I'll describe a movie, animal, or object using emojis, and you try to guess it.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "give me an emoji challenge",
+    "answer": "Here's one: 🦁👑. What movie am I thinking of?",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "what movie is the lion emoji challenge",
+    "answer": "The Lion King!",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "can we play rock paper scissors",
+    "answer": "Sure! Choose rock, paper, or scissors, and I'll make my choice too.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "rock paper scissors",
+    "answer": "I choose paper! Your move.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play number guessing",
+    "answer": "Okay! Think of a number from 1 to 100, and I'll try to find it with logical questions.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "can we play memory game",
+    "answer": "Yes! I'll give you a short sequence of items. Try to remember them and repeat them in the correct order.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "start the memory game",
+    "answer": "Remember these three words: apple, rocket, ocean. Now repeat them in the same order.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play finish the sentence",
+    "answer": "Good choice! I'll start a sentence and you complete it creatively.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "finish this sentence, if I could travel anywhere",
+    "answer": "If I could travel anywhere, I would explore a place I've never seen before and learn something new.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "can we play impossible choices",
+    "answer": "Definitely! I'll give you two ridiculous choices, and you must pick one.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "would you rather have a robot or a flying car",
+    "answer": "I'd choose a robot. A helpful robot could do many useful tasks while the flying car would still need somewhere to park!",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "let's play odd one out",
+    "answer": "Sure! I'll give you four items, and you find the one that doesn't belong.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "which is the odd one out, apple banana carrot mango",
+    "answer": "Carrot is the odd one out because it is commonly classified as a vegetable, while the others are fruits.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "can we play fast questions",
+    "answer": "Absolutely! Ask quick questions one after another, and I'll give quick answers.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "choose pizza or biriyani",
+    "answer": "That's difficult, but I'll choose biriyani for a flavorful meal!",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "choose beach or mountains",
+    "answer": "Mountains! Fresh air, beautiful views, and fewer worries about getting sand everywhere.",
+    "category": "friendly_talk_game"
+  },
+  {
+    "question": "did I win the game",
+    "answer": "If you played fairly and had fun, I'd say you already won!",
+    "category": "friendly_talk_game"
   }
 ]
