@@ -446,14 +446,9 @@ void Telemetry::_fillGpioSlow(ESP32Telemetry& t) const {
 // Temperature (internal sensor only, where API is supported)
 // ---------------------------------------------------------------
 void Telemetry::_fillTemperature(ESP32Telemetry& t) const {
-#if AMELTECH_ON_ESP32 && AMELTECH_HAVE_TEMP_SENSOR
-    temp_sensor_config_t cfg = TSENS_CONFIG_DEFAULT();
-    temp_sensor_set_config(cfg);
-    temp_sensor_start();
-    float tempC = 0.0f;
-    esp_err_t err = temp_sensor_read_celsius(&tempC);
-    temp_sensor_stop();
-    if (err == ESP_OK) {
+#if AMELTECH_ON_ESP32
+    float tempC = temperatureRead();   // modern Arduino-ESP32 API
+    if (!isnan(tempC)) {
         t.temperature.internalTempC.value = tempC;
         t.temperature.internalTempC.status = MEAS_LIVE;
         t.temperature.internalTempC.timestampMs = millis();
@@ -461,9 +456,6 @@ void Telemetry::_fillTemperature(ESP32Telemetry& t) const {
         t.temperature.internalTempC.status = MEAS_MEASUREMENT_ERROR;
     }
 #else
-    // Classic ESP32 does not expose a documented reliable public
-    // internal-temperature API through Arduino core in all versions;
-    // rather than guess, report UNSUPPORTED.
     t.temperature.internalTempC.status = MEAS_UNSUPPORTED;
 #endif
 }
