@@ -11,15 +11,23 @@ scoring — all behind a single public header.
 AmelTechBot bot;
 
 void setup() {
-    Serial.begin(115200);
-    bot.begin();
-
-    Serial.println(bot.ask("What is water?"));
-    Serial.println(bot.ask("What is ESP32?"));
-    Serial.println(bot.ask("How many seconds are in one minute?"));
+  Serial.begin(115200);
+  delay(500);
+  bot.begin();
+  Serial.println("AmelTech bot ready. Type a question:");
 }
 
-void loop() {}
+void loop() {
+  if (Serial.available()) {
+    String q = Serial.readStringUntil('\n');
+    q.trim();
+    if (q.length() > 0) {
+      Serial.print("> ");
+      Serial.println(q);
+      Serial.println(bot.ask(q));
+    }
+  }
+}
 ```
 
 No built-in Q&A needs to be added by your sketch — the knowledge ships
