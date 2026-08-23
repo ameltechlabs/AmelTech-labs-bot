@@ -24,7 +24,11 @@
 // -------------------------------------------------------------
 #define AMELTECH_MAX_QUESTION_LEN   96
 #define AMELTECH_MAX_ANSWER_LEN     220
-#define AMELTECH_MAX_CATEGORY_LEN   24
+// 34, not 24: the longest name in generate_knowledge.py's VALID_CATEGORIES
+// ("football_player_celebrity_profile") is 33 chars. 24 was too small for
+// the whitelist itself, so no dataset using that category could ever pass
+// validation. Raised to 34 (33 chars + null terminator headroom).
+#define AMELTECH_MAX_CATEGORY_LEN   34
 #define AMELTECH_MAX_USER_ENTRIES   64
 #define AMELTECH_MAX_CONTEXT_SIZE   8
 #define AMELTECH_DEFAULT_CONTEXT_SIZE 4
