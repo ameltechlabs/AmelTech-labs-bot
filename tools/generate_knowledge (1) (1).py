@@ -30,10 +30,10 @@ from datetime import datetime, timezone
 # Configuration / limits
 # ---------------------------------------------------------------------------
 
-MAX_QUESTION_LEN = 110      # must match AMELTECH_MAX_QUESTION_LEN in the C++ headers
-MAX_ANSWER_LEN = 360       # must match AMELTECH_MAX_ANSWER_LEN in the C++ headers
-MAX_CATEGORY_LEN = 47
-MAX_ENTRIES = 2112
+MAX_QUESTION_LEN = 120      # must match AMELTECH_MAX_QUESTION_LEN in the C++ headers
+MAX_ANSWER_LEN = 460       # must match AMELTECH_MAX_ANSWER_LEN in the C++ headers
+MAX_CATEGORY_LEN = 50
+MAX_ENTRIES = 7000
 
 VALID_CATEGORIES = {
     "ai_model_choice",
