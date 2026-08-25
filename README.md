@@ -37,23 +37,63 @@ Repository: [ameltechlabs/AmelTech-labs-bot](https://github.com/ameltechlabs/Ame
 #include <AmelTechBot.h>
 
 AmelTechBot bot;
+bool botReady = false;
 
 void setup() {
   Serial.begin(115200);
-  delay(500);
-  bot.begin();
-  Serial.println("AmelTech bot ready. Type a question:");
+  delay(800);
+
+  Serial.println("\n==============================");
+  Serial.println("   AmelTech Bot Starting...");
+  Serial.println("==============================");
+
+  // In v1.1.0, begin() returns bool
+  botReady = bot.begin();
+
+  if (botReady) {
+    Serial.println("Bot initialized successfully!");
+    Serial.println("Type a question and press Enter.");
+    Serial.println("Examples:");
+    Serial.println("  - what is esp32");
+    Serial.println("  - what is free heap");
+    Serial.println("  - hi");
+    Serial.println("  - 25 * 4");
+    Serial.println("==============================\n");
+  } else {
+    Serial.print("Bot failed to start. Last status: ");
+    Serial.println(bot.getLastStatus());
+  }
 }
 
 void loop() {
+  if (!botReady) {
+    delay(1000);
+    return;
+  }
+
   if (Serial.available()) {
-    String q = Serial.readStringUntil('\n');
-    q.trim();
-    if (q.length() > 0) {
-      Serial.print("> ");
-      Serial.println(q);
-      Serial.println(bot.ask(q));
+    String question = Serial.readStringUntil('\n');
+    question.trim();
+
+    if (question.length() == 0) {
+      return;
     }
+
+    Serial.print("\n> ");
+    Serial.println(question);
+
+    String answer = bot.ask(question);
+    Serial.println(answer);
+
+    // Show confidence (useful for debugging)
+    Serial.print("Confidence: ");
+    Serial.println(bot.getConfidence(), 2);
+
+    // Optional: show last status
+    // Serial.print("Status: ");
+    // Serial.println(bot.getLastStatus());
+
+    Serial.println("------------------------------");
   }
 }
 ```
