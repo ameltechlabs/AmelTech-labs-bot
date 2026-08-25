@@ -38,15 +38,70 @@ Repository: [ameltechlabs/AmelTech-labs-bot](https://github.com/ameltechlabs/Ame
 
 AmelTechBot bot;
 
+// Optional: track if the bot started successfully
+bool botReady = false;
+
 void setup() {
   Serial.begin(115200);
-  bot.begin();
-  Serial.println(bot.ask("What is water?"));
-  Serial.println(bot.ask("What is ESP32?"));
-  Serial.println(bot.ask("How many seconds are in one minute?"));
+  delay(800);                        // Give Serial time to stabilize
+
+  Serial.println("\n==============================");
+  Serial.println("   AmelTech Bot Starting...");
+  Serial.println("==============================");
+
+  AmelTechStatus status = bot.begin();
+
+  if (status == AMELTECH_OK) {
+    botReady = true;
+    Serial.println("Bot initialized successfully!");
+    Serial.println("Type a question and press Enter.");
+    Serial.println("Examples:");
+    Serial.println("  - what is esp32");
+    Serial.println("  - what is free heap");
+    Serial.println("  - hi");
+    Serial.println("  - 25 * 4");
+    Serial.println("==============================\n");
+  } else {
+    botReady = false;
+    Serial.print("Bot failed to start: ");
+    Serial.println(ameltechStatusToString(status));
+  }
 }
 
-void loop() {}
+void loop() {
+  if (!botReady) {
+    // If begin() failed, do nothing
+    delay(1000);
+    return;
+  }
+
+  if (Serial.available()) {
+    String question = Serial.readStringUntil('\n');
+    question.trim();                  // Remove spaces and \r
+
+    // Ignore empty input
+    if (question.length() == 0) {
+      return;
+    }
+
+    // Show what the user typed
+    Serial.print("\n> ");
+    Serial.println(question);
+
+    // Get answer from the bot
+    String answer = bot.ask(question);
+
+    // Print the answer
+    Serial.println(answer);
+
+    // Optional: show confidence (very useful for debugging)
+    float confidence = bot.getConfidence();
+    Serial.print("Confidence: ");
+    Serial.println(confidence, 2);   // Print with 2 decimal places
+
+    Serial.println("------------------------------");
+  }
+}
 ```
 
 Built-in knowledge is supplied by the library. You do **not** need to call `train()` for the default Q&A set.
