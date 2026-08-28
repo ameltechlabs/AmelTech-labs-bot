@@ -116,6 +116,127 @@ Regenerate after editing the JSON:
 python3 tools/generate_knowledge.py
 ```
 
+## AmelTech lab's bot
+
+**Offline ESP32 knowledge engine** with calculator, telemetry, diagnostics, and explainable health scoring.
+
+No cloud. No network required for core operation. Built for Arduino-ESP32.
+
+Repository: [ameltechlabs/AmelTech-labs-bot](https://github.com/ameltechlabs/AmelTech-labs-bot)
+
+---
+
+## What it does
+
+AmelTech lab's bot is a single Arduino library that turns an ESP32 into a small offline assistant. You can:
+
+- Ask general-knowledge and hardware questions over Serial (or your own UI)
+- Run a safe math calculator
+- Query live ESP32 telemetry (heap, RSSI, uptime, temperature when available, …)
+- Run diagnostics and get an explainable **health score** (0–100)
+- Train custom Q&A that persists in NVS
+- Keep short conversation context for simple follow-ups
+
+Matching is deterministic / heuristic (exact → normalized → keyword → fuzzy). It is **not** a neural network.
+
+---
+
+## Features
+
+| Area | Capability |
+|------|------------|
+| **Knowledge** | 2039 built-in Q&A entries embedded in flash |
+| **Matching** | Exact, normalized, keyword, fuzzy + confidence bands |
+| **Training** | User `train()` / `addQA()` with duplicate & conflict detection |
+| **Persistence** | User knowledge saved/loaded via ESP32 NVS |
+| **Calculator** | `+ - * / %`, parentheses, decimals, operator precedence |
+| **Context** | Bounded follow-up memory (up to 4 turns) |
+| **Telemetry** | Explicit statuses: LIVE, CACHED, STALE, UNAVAILABLE, UNSUPPORTED, ERROR |
+| **Diagnostics** | Text hardware report |
+| **Health score** | 5-component score (CPU, Memory, Wi-Fi, Communication, System) → 0–100 |
+| **Trolling** | Optional harmless humor mode |
+| **API** | One public header: `#include <AmelTechBot.h>` |
+
+---
+
+## Built-in knowledge categories (2039 entries)
+
+Questions are grouped by category. The engine uses the category for matching priority and conflict resolution.
+
+### General knowledge
+
+| Category | Count | Example topics |
+|----------|------:|----------------|
+| `gk` | 1136 | Broad general knowledge |
+| `science` | 28 | Physics, chemistry basics |
+| `computing` | 78 | Computers, software concepts |
+| `math` | 14 | Math terms and facts |
+| `history` | 1 | Historical facts |
+| `geography` | 1 | Places and geography |
+| `earth_gk` | 25 | Earth science |
+| `space_gk` | 20 | Space and astronomy |
+| `disaster_hazard_gk` | 25 | Disasters, hazards, safety |
+| `cybersecurity` | 5 | Security basics |
+| `electromagnetic` | 14 | EM spectrum, waves |
+
+### Electronics, Arduino & ESP32
+
+| Category | Count | Example topics |
+|----------|------:|----------------|
+| `esp32` | 88 | ESP32 chip, features, APIs |
+| `esp32_choice` | 20 | Which ESP32 variant to pick |
+| `esp32_projects` | 20 | Project ideas |
+| `arduino` | 38 | Arduino platform |
+| `arduino_choice` | 10 | Board selection |
+| `arduino_projects_gk` | 20 | Arduino project ideas |
+| `electronics` | 68 | Components, circuits |
+| `sensor` | 61 | Sensors and readings |
+| `sensor_module_choice` | 30 | Which sensor module to use |
+| `networking` | 17 | Wi-Fi, networking basics |
+| `chemistry_table` | 34 | Elements / chemistry reference |
+
+### AI, meta & library itself
+
+| Category | Count | Example topics |
+|----------|------:|----------------|
+| `ai_use` | 20 | Practical AI usage |
+| `ai_model_choice` | 15 | Choosing AI models |
+| `ameltechbot_features` | 46 | What this library can do |
+| `library_creator` | 13 | About the library |
+| `creator_profile` | 7 | Creator info |
+| `meta` | 18 | Self-describing / meta questions |
+
+### Conversation & fun
+
+| Category | Count | Example topics |
+|----------|------:|----------------|
+| `greeting` | 14 | hi, hello, good morning |
+| `goodbye` | 7 | bye, see you |
+| `friendly` | 25 | Polite / friendly replies |
+| `funny` / `fun` | 5 | Light humor |
+| `funny_trolling` | 19 | Optional sarcastic mode (cleaned, respectful) |
+| `mock` | 49 | Playful mock answers |
+| `love` | 9 | Affection-style replies |
+| `dreams` | 7 | Dream-related |
+| `pizza_making` | 15 | How to make pizza (fun domain) |
+| `indian_cricket_player_profile` | 15 | Cricket player profiles |
+| `important` | 2 | High-priority facts |
+
+> Categories with specific domain names (e.g. `science`, `electronics`) are preferred over generic `gk` when the same question appears in both.
+
+---
+
+## Types of questions the bot understands
+
+### 1. Knowledge questions
+
+```text
+what is esp32
+what is free heap
+who is sunil chhetri
+what is gravity
+how does a resistor work
+
 ## Custom training
 
 ```cpp
