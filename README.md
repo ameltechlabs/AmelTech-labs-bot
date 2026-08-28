@@ -34,196 +34,69 @@ Repository: [ameltechlabs/AmelTech-labs-bot](https://github.com/ameltechlabs/Ame
 ## Quick start
 
 ```cpp
-/*
- * AmelTech lab's bot - Complete working sketch
- * Compatible with your current library version
- *
- * Features:
- *   - Ask any question (knowledge)
- *   - Calculator
- *   - Live hardware / telemetry questions
- *   - Health score
- *   - Full diagnostics
- *   - Train custom knowledge from Serial
- *   - Save / clear user knowledge (NVS)
- *   - Status + confidence
- *   - Help menu
- *
- * Serial commands:
- *   help
- *   <any question>
- *   25 * 4
- *   health
- *   diag
- *   train | question | answer
- *   save
- *   clear
- *   status
- */
+
 
 #include <AmelTechBot.h>
 
 AmelTechBot bot;
 bool botReady = false;
 
-// -------------------------------------------------
-// Help menu
-// -------------------------------------------------
-void printHelp() {
-  Serial.println();
-  Serial.println("============== AmelTech Bot ==============");
-  Serial.println("  help                 Show this help");
-  Serial.println("  <any question>       Ask knowledge / hardware");
-  Serial.println("  25 * 4               Calculator");
-  Serial.println("  health               Health score report");
-  Serial.println("  diag                 Full diagnostics");
-  Serial.println("  train | q | a        Train custom knowledge");
-  Serial.println("  save                 Save user knowledge (NVS)");
-  Serial.println("  clear                Clear user knowledge");
-  Serial.println("  status               Last status + confidence");
-  Serial.println("==========================================");
-  Serial.println();
-}
-
-// -------------------------------------------------
-// Setup
-// -------------------------------------------------
 void setup() {
   Serial.begin(115200);
-  delay(1000);
+  delay(800);
 
-  Serial.println();
-  Serial.println("==============================");
+  Serial.println("\n==============================");
   Serial.println("   AmelTech Bot Starting...");
   Serial.println("==============================");
 
+  // In v1.1.0, begin() returns bool
   botReady = bot.begin();
 
-  if (!botReady) {
-    Serial.print("Bot failed to start: ");
+  if (botReady) {
+    Serial.println("Bot initialized successfully!");
+    Serial.println("Type a question and press Enter.");
+    Serial.println("Examples:");
+    Serial.println("  - what is esp32");
+    Serial.println("  - what is free heap");
+    Serial.println("  - hi");
+    Serial.println("  - 25 * 4");
+    Serial.println("==============================\n");
+  } else {
+    Serial.print("Bot failed to start. Last status: ");
     Serial.println(bot.getLastStatus());
-    return;
   }
-
-  Serial.println("Bot ready!");
-  printHelp();
-
-  Serial.println("Examples:");
-  Serial.println("  what is esp32");
-  Serial.println("  what is free heap");
-  Serial.println("  25 * 4");
-  Serial.println("  health");
-  Serial.println("  diag");
-  Serial.println("  train | question | answer");
-  Serial.println("  save");
-  Serial.println();
 }
 
-// -------------------------------------------------
-// Main loop
-// -------------------------------------------------
 void loop() {
   if (!botReady) {
     delay(1000);
     return;
   }
 
-  if (!Serial.available()) return;
+  if (Serial.available()) {
+    String question = Serial.readStringUntil('\n');
+    question.trim();
 
-  String line = Serial.readStringUntil('\n');
-  line.trim();
-  if (line.length() == 0) return;
-
-  Serial.print("\n> ");
-  Serial.println(line);
-
-  // ---------- HELP ----------
-  if (line.equalsIgnoreCase("help")) {
-    printHelp();
-    return;
-  }
-
-  // ---------- STATUS ----------
-  if (line.equalsIgnoreCase("status")) {
-    Serial.print("Last status : ");
-    Serial.println(bot.getLastStatus());
-    Serial.print("Confidence  : ");
-    Serial.println(bot.getConfidence(), 2);
-    return;
-  }
-
-  // ---------- SAVE ----------
-  if (line.equalsIgnoreCase("save")) {
-    bot.saveKnowledge();
-    Serial.print("Save result : ");
-    Serial.println(bot.getLastStatus());
-    return;
-  }
-
-  // ---------- CLEAR ----------
-  if (line.equalsIgnoreCase("clear")) {
-    bot.clearKnowledge();
-    Serial.println("User knowledge cleared.");
-    Serial.println("(Built-in knowledge is kept)");
-    return;
-  }
-
-  // ---------- HEALTH ----------
-  // Uses ask() so it always returns a String (safe for all library versions)
-  if (line.equalsIgnoreCase("health")) {
-    Serial.println(bot.ask("what is the health"));
-    Serial.print("Confidence: ");
-    Serial.println(bot.getConfidence(), 2);
-    return;
-  }
-
-  // ---------- DIAGNOSTICS ----------
-  if (line.equalsIgnoreCase("diag") ||
-      line.equalsIgnoreCase("diagnostics") ||
-      line.equalsIgnoreCase("run diagnostics")) {
-    Serial.println(bot.ask("run diagnostics"));
-    Serial.print("Confidence: ");
-    Serial.println(bot.getConfidence(), 2);
-    return;
-  }
-
-  // ---------- TRAIN ----------
-  // Format: train | question | answer
-  if (line.startsWith("train |") || line.startsWith("train|")) {
-    int p1 = line.indexOf('|');
-    int p2 = line.indexOf('|', p1 + 1);
-
-    if (p1 < 0 || p2 < 0) {
-      Serial.println("Bad format.");
-      Serial.println("Use: train | your question | your answer");
+    if (question.length() == 0) {
       return;
     }
 
-    String q = line.substring(p1 + 1, p2);
-    String a = line.substring(p2 + 1);
-    q.trim();
-    a.trim();
+    Serial.print("\n> ");
+    Serial.println(question);
 
-    if (q.length() == 0 || a.length() == 0) {
-      Serial.println("Question and answer cannot be empty.");
-      return;
-    }
+    String answer = bot.ask(question);
+    Serial.println(answer);
 
-    bot.train(q, a, "custom");
-    Serial.print("Train result : ");
-    Serial.println(bot.getLastStatus());
-    Serial.println("Type 'save' to keep it after reboot.");
-    return;
+    // Show confidence (useful for debugging)
+    Serial.print("Confidence: ");
+    Serial.println(bot.getConfidence(), 2);
+
+    // Optional: show last status
+    // Serial.print("Status: ");
+    // Serial.println(bot.getLastStatus());
+
+    Serial.println("------------------------------");
   }
-
-  // ---------- NORMAL ASK ----------
-  // Handles: knowledge, calculator, telemetry questions
-  String answer = bot.ask(line);
-  Serial.println(answer);
-
-  Serial.print("Confidence: ");
-  Serial.println(bot.getConfidence(), 2);
-  Serial.println("------------------------------");
 }
 ```
 
