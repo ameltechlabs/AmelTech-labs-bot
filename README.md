@@ -237,7 +237,7 @@ who is sunil chhetri
 what is gravity
 how does a resistor work
 
-## Custom training
+## Custom trained knowledge
 
 ```cpp
 bot.train("what is my project", "My project uses an ESP32.", "custom");
