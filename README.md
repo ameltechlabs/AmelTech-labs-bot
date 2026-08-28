@@ -224,6 +224,16 @@ Questions are grouped by category. The engine uses the category for matching pri
 
 > Categories with specific domain names (e.g. `science`, `electronics`) are preferred over generic `gk` when the same question appears in both.
 
+
+
+ ### Serial commands:
+ *   any question          -> bot.ask()
+ *   train | q | a         -> train custom knowledge
+ *   save                  -> save user knowledge to NVS
+ *   health                -> health report
+ *   diag                  -> full diagnostics
+ *   help                  -> show commands
+
 ---
 
 ## Types of questions the bot understands
