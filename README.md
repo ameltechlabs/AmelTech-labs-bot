@@ -14,15 +14,31 @@ Everything runs on the chip. No network, no cloud, no API key, no subscription.
 AmelTechBot bot;
 
 void setup() {
-    Serial.begin(115200);
-    bot.begin();
-    bot.beginDHT(4, DHT_TYPE_22);   // optional
+  Serial.begin(115200);
+  delay(1000);                // Important: wait for Serial
+
+  Serial.println("==============================");
+  Serial.println("   AmelTech Bot Starting...");
+  Serial.println("==============================");
+
+  bot.begin();
+
+  Serial.println("Bot is ready!");
+  Serial.println("Type your question and press Enter");
+  Serial.println("----------------------------------");
 }
 
 void loop() {
-    String reply;
-    if (bot.pollSerial(Serial, reply)) Serial.println(reply);
-    bot.tick();
+  if (Serial.available()) {
+    String question = Serial.readStringUntil('\n');
+    question.trim();                    // remove extra spaces / Enter
+
+    if (question.length() > 0) {
+      String answer = bot.ask(question);
+      Serial.println(answer);
+      Serial.println("----------------------------------");
+    }
+  }
 }
 ```
 
