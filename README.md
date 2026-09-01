@@ -49,7 +49,7 @@ The compiled binary is approximately **1.3 – 1.4 MB**. 😱
 
 **You must change the Partition Scheme**, otherwise you will get this error:
 
-### Required Setting:
+### Required Setting: ⚠️
 
 **Tools → Partition Scheme → No OTA (2MB APP/2MB SPIFFS)**
 
