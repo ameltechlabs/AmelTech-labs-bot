@@ -47,9 +47,9 @@ Unsupported features are clearly reported as `UNSUPPORTED` or `UNAVAILABLE`.
 This library contains a large built-in knowledge base.  
 The compiled binary is approximately **1.3 – 1.4 MB**. 😱
 
-**You must change the Partition Scheme**, otherwise you will get this error:
+**You must change the Partition Scheme**, otherwise you will get this error: ⚠️
 
-### Required Setting: ⚠️
+### Required Setting: 
 
 **Tools → Partition Scheme → No OTA (2MB APP/2MB SPIFFS)**
 
