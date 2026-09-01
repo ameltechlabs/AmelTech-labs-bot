@@ -1,6 +1,12 @@
 # AmelTech lab's bot
 
 **Version 2.0.0** — an offline chatbot library for the ESP32 family.
+It answers general knowledge questions, solves maths, reads DHT sensors and
+talks about the board it runs on. It remembers who you are between power
+cycles, learns from you over the serial monitor, and reports its own health.
+
+Everything runs on the chip. No network, no cloud, no API key, no subscription.
+
 
 **Offline-capable ESP32 Arduino library**  
 Knowledge engine + Calculator + Telemetry + Diagnostics + Health scoring
@@ -43,11 +49,28 @@ The compiled binary is approximately **1.3 – 1.4 MB**.
 
 **You must change the Partition Scheme**, otherwise you will get this error:
 
-It answers general knowledge questions, solves maths, reads DHT sensors and
-talks about the board it runs on. It remembers who you are between power
-cycles, learns from you over the serial monitor, and reports its own health.
+### Required Setting:
 
-Everything runs on the chip. No network, no cloud, no API key, no subscription.
+**Tools → Partition Scheme → No OTA (2MB APP/2MB SPIFFS)**
+
+or
+
+**Huge APP (3MB No OTA)**
+
+---
+
+## Installation
+
+1. Download the library ZIP
+2. In Arduino IDE go to:  
+   **Sketch → Include Library → Add .ZIP Library…**
+3. Select an ESP32 board
+4. Set Partition Scheme as shown above
+5. Open any example
+
+---
+
+## Quick Start (Recommended Code)
 
 ```cpp
 #include <AmelTechBot.h>
