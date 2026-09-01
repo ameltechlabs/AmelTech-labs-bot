@@ -45,7 +45,7 @@ Unsupported features are clearly reported as `UNSUPPORTED` or `UNAVAILABLE`.
 ## Important Note (Flash Size) 🚨
 
 This library contains a large built-in knowledge base.  
-The compiled binary is approximately **1.3 – 1.4 MB**. 🫵
+The compiled binary is approximately **1.3 – 1.4 MB**. 😱
 
 **You must change the Partition Scheme**, otherwise you will get this error:
 
