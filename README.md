@@ -2,6 +2,47 @@
 
 **Version 2.0.0** — an offline chatbot library for the ESP32 family.
 
+**Offline-capable ESP32 Arduino library**  
+Knowledge engine + Calculator + Telemetry + Diagnostics + Health scoring
+
+Repository: [ameltechlabs/AmelTech-labs-bot](https://github.com/ameltechlabs/AmelTech-labs-bot)
+
+---
+
+## Features
+
+- Fully offline question–answer engine (no internet required)
+- Built-in knowledge base (embedded in flash)
+- Trainable user knowledge with NVS persistence
+- Safe expression calculator (`+ - * / %`, parentheses, decimals)
+- Input normalization + exact / keyword / fuzzy matching
+- Confidence scoring
+- Conversation context
+- ESP32 hardware telemetry (heap, uptime, RSSI, temperature, etc.)
+- Diagnostics and explainable health score
+- Optional trolling mode
+- Single header: `#include <AmelTechBot.h>`
+
+---
+
+## Supported Platforms
+
+- ESP32 (classic)
+- ESP32-S2 / S3
+- ESP32-C3 / C6
+- ESP32-H2
+
+Unsupported features are clearly reported as `UNSUPPORTED` or `UNAVAILABLE`.
+
+---
+
+## Important Note (Flash Size)
+
+This library contains a large built-in knowledge base.  
+The compiled binary is approximately **1.3 – 1.4 MB**.
+
+**You must change the Partition Scheme**, otherwise you will get this error:
+
 It answers general knowledge questions, solves maths, reads DHT sensors and
 talks about the board it runs on. It remembers who you are between power
 cycles, learns from you over the serial monitor, and reports its own health.
