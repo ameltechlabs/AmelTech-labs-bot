@@ -7,6 +7,29 @@ cycles, learns from you over the serial monitor, and reports its own health.
 
 Everything runs on the chip. No network, no cloud, no API key, no subscription.
 
+## 🎥 YouTube Tutorial
+
+Learn how to install, configure, and use **AmelTech-labs-bot** through our YouTube tutorial.
+
+<p align="center">
+  <a href="https://youtu.be/Blx9njkKmuY">
+    <img src="https://img.youtube.com/vi/Blx9njkKmuY/maxresdefault.jpg"
+         alt="AmelTech-labs-bot YouTube Tutorial"
+         width="720">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/Blx9njkKmuY">
+    <img src="https://img.shields.io/badge/Watch%20Tutorial-YouTube-red?style=for-the-badge&logo=youtube"
+         alt="Watch on YouTube">
+  </a>
+</p>
+
+**Video:** [AmelTech-labs-bot – Complete Tutorial](https://youtu.be/Blx9njkKmuY)
+
+Subscribe to **AmelTech Labs** for more Arduino, ESP32, IoT, and embedded AI projects.
+
 
 **Offline-capable ESP32 Arduino library**  
 Knowledge engine + Calculator + Telemetry + Diagnostics + Health scoring
