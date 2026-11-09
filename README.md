@@ -417,6 +417,39 @@ Everything tunable lives in `src/AmelTechConfig.h` and can be overridden with a
 ```
 
 ---
+## 👨‍💻 Connect With the Developer
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amel-shaju-346231329/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Amel%20Shaju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Amel Shaju on LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  Amel Shaju | AmelTech Labs
+</p>
+
+<p align="center">
+  Passionate about technology, software development, artificial intelligence, automation, and innovative engineering solutions.
+</p>
+
+<p align="center">
+  Have questions, ideas, or collaboration opportunities?
+  <br/>
+  Connect with me on LinkedIn to discuss projects, share knowledge, and explore new possibilities.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amel-shaju-346231329/">
+    Visit My LinkedIn Profile →
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you find this project useful, consider giving it a star on GitHub!
+</p>
 
 ## Licence
 
