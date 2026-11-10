@@ -101,31 +101,32 @@ or
 AmelTechBot bot;
 
 void setup() {
-  Serial.begin(115200);
-  delay(1000);                // Important: wait for Serial
+    Serial.begin(115200);
+    delay(300);
 
-  Serial.println("==============================");
-  Serial.println("   AmelTech Bot Starting...");
-  Serial.println("==============================");
+    if (!bot.begin()) {
+        Serial.println("Bot failed to start. Not enough memory?");
+        while (true) delay(1000);
+    }
 
-  bot.begin();
-
-  Serial.println("Bot is ready!");
-  Serial.println("Type your question and press Enter");
-  Serial.println("----------------------------------");
+    Serial.println();
+    Serial.print("AmelTech lab's bot v");
+    Serial.println(AmelTechBot::version());
+    Serial.print("Knowledge entries: ");
+    Serial.println((unsigned long)bot.getKnowledgeCount());
+    Serial.println("Ask me anything. Type 'help' for the command list.");
+    Serial.println();
 }
 
 void loop() {
-  if (Serial.available()) {
-    String question = Serial.readStringUntil('\n');
-    question.trim();                    // remove extra spaces / Enter
-
-    if (question.length() > 0) {
-      String answer = bot.ask(question);
-      Serial.println(answer);
-      Serial.println("----------------------------------");
+    String reply;
+    if (bot.pollSerial(Serial, reply)) {
+        Serial.println(reply);
+        Serial.println();
     }
-  }
+
+    // Keeps telemetry, the thermal guard and deferred saves ticking over.
+    bot.tick();
 }
 ```
 
